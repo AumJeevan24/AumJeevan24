@@ -6,10 +6,10 @@ Bridging the gap between **Robust DevOps** and **Applied AI**.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" height="40" style="object-fit:cover;">
+  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" height="50" style="object-fit:cover;">
 </p>
 
-### 🕹️ Tech Stack & Skills
+### 🕹️ Tech Stack
 
 | **AI & Machine Learning** | **DevOps & Cloud** | **Languages & Backend** |
 |:---:|:---:|:---:|
@@ -23,14 +23,12 @@ Bridging the gap between **Robust DevOps** and **Applied AI**.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide=stars,issues&hide_title=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=css,html" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AumJeevan24&show_icons=true&theme=radical&hide=stars,issues&hide_title=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&theme=radical&hide=css,html" height="150" alt="languages graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/REPLACE_WITH_YOUR_USERNAME/REPLACE_WITH_YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake game" />
 </p>
