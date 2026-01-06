@@ -5,11 +5,11 @@ Bridging the gap between **Robust DevOps** and **Applied AI**.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" height="50" style="object-fit:cover;">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" style="max-height: 100px; object-fit: contain;">
+</div>
 
-### 🕹️ Tech Stack
+### 🕹️ Tech Stack & Skills
 
 | **AI & Machine Learning** | **DevOps & Cloud** | **Languages & Backend** |
 |:---:|:---:|:---:|
@@ -19,16 +19,3 @@ Bridging the gap between **Robust DevOps** and **Applied AI**.
 | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=deepnote&logoColor=white) | ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
 | ![SciKit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AumJeevan24&show_icons=true&theme=radical&hide=stars,issues&hide_title=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&theme=radical&hide=css,html" height="150" alt="languages graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/REPLACE_WITH_YOUR_USERNAME/REPLACE_WITH_YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake game" />
-</p>
